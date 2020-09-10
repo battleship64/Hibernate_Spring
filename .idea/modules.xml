@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hb_01_one_to_one_bi/hb_01_one_to_one_bi.iml" filepath="$PROJECT_DIR$/hb_01_one_to_one_bi/hb_01_one_to_one_bi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hb_01_one_to_one_uni/hb_01_one_to_one_uni.iml" filepath="$PROJECT_DIR$/hb_01_one_to_one_uni/hb_01_one_to_one_uni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hb_03_one_to_many/hb_03_one_to_many.iml" filepath="$PROJECT_DIR$/hb_03_one_to_many/hb_03_one_to_many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hb_04_one_to_many_uni/hb_04_one_to_many_uni.iml" filepath="$PROJECT_DIR$/hb_04_one_to_many_uni/hb_04_one_to_many_uni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hb_05_many_to_many/hb_05_many_to_many.iml" filepath="$PROJECT_DIR$/hb_05_many_to_many/hb_05_many_to_many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hb_eaager_vs_lzay_demo/hb_eaager_vs_lzay_demo.iml" filepath="$PROJECT_DIR$/hb_eaager_vs_lzay_demo/hb_eaager_vs_lzay_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate_tutorial/hibernate_tutorial.iml" filepath="$PROJECT_DIR$/hibernate_tutorial/hibernate_tutorial.iml" />
+    </modules>
+  </component>
+</project>
